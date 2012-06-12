@@ -1,0 +1,13 @@
+markdown: rdiscount 
+pygments: true
+safe: false
+permalink: /posts/:title.html
+exclude:
+  - README.md
+
+host: suredream.github.com
+
+meta:
+    authors:
+      - name: suredream 
+        email: jun.xiong1981@gmail.com
