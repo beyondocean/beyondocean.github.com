@@ -3,7 +3,7 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="author" content="Yihui Xie" />
-    <title>{% if page.title %} | {{ page.title }}{% endif %}</title>
+    <title>{% if page.title %} {{ page.title }}{% endif %}</title>
     <link rel="shortcut icon" href="/favicon.ico">
     <link href="http://beyondocean.github.com/feed/" rel="alternate" title="Jun Xiong" type="application/atom+xml" />
     <link rel="stylesheet" href="assets/css/style.css">
