@@ -28,7 +28,7 @@
         </nav>
 
         <nav1>
-        <span>Established by</span></br>
+        <span>Created by</span></br>
         <span><a href="http://suredream.github.com">Jun Xiong</a></span>
 
         </br> </br>
