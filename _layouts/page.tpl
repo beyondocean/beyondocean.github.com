@@ -39,8 +39,7 @@
         <p>
             <a href="http://disqus.com/" target="_blank" title="Cloud comment service">Disqus</a>,
             <a href="http://github.com/" target="_blank">GitHub</a>,
-            <a href="http://www.google.com/cse/" target="_blank" title="Custom search">Google Custom  Search</a>,
-            <a href="http://mytharcher.github.com/" target="_blank">mytharcher</a>,
+            <a href="http://www.google.com/cse/" target="_blank" title="Custom search">Google Search</a>,
             <a href="http://yihui.name/" target="_blank">yihui</a>,
             <a href="http://github.com/mojombo/jekyll" target="_blank">jekyll</a>
         </p>
